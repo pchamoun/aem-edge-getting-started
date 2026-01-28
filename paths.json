@@ -1,7 +1,7 @@
 {
   "mappings": [
-    "/content/aem-edge-getting-started-site/:/",
-    "/content/aem-edge-getting-started-site/configuration:/.helix/config.json",
-    "/content/aem-edge-getting-started-site/metadata:/metadata.json"
+    "/content/universal-editorgettingstartedsite/:/",
+    "/content/universal-editorgettingstartedsite/configuration:/.helix/config.json",
+    "/content/universal-editorgettingstartedsite/metadata:/metadata.json"
   ]
 }
