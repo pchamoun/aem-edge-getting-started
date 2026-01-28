@@ -3,5 +3,8 @@
     "/content/universal-editorgettingstartedsite/:/",
     "/content/universal-editorgettingstartedsite/configuration:/.helix/config.json",
     "/content/universal-editorgettingstartedsite/metadata:/metadata.json"
+  ],
+  "includes": [
+    "/content/universal-editorgettingstartedsite/"
   ]
 }
